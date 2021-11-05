@@ -11,7 +11,6 @@ then
     sudo chmod -R 777 /etc/ssl/
     cd /etc/ssl/
 
-    sudo sed -i "dir = [0-9,\.]*/dir = \/ttttt 10.0.0.1" ./openssl.cnf
 
     if [ ! -f "/etc/ssl/private/cakey.pem" ];then
         openssl genrsa -des3 -out ./private/cakey.pem 4096
