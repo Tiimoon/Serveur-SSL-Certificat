@@ -23,7 +23,7 @@ Durant l'exécution des scripts différentes questions vous seront posées ainsi
 Etape 1 :
 
 
-    Sur le serveur qui servira d'autorité de certification, avant d'exécuter le script "creationAutoriteCertif-ServerCertif.sh" rendez-vous dans /etc/ssl/ est modifiée la ligne dir par $dir/etc/ssl ainsi que la ligne private_key par $dir/private/cakey.pem
+    Sur le serveur qui servira d'autorité de certification ainsi que le 2ième serveur, avant d'exécuter le script "creationAutoriteCertif-ServerCertif.sh" rendez-vous dans /etc/ssl/ est modifiée la ligne dir par $dir/etc/ssl ainsi que la ligne private_key par $dir/private/cakey.pem
 
     Ensuite exécuté le script "creationAutoriteCertif-ServerCertif.sh" sur le serveur de certification
 
