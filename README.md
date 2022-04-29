@@ -17,7 +17,7 @@ Ces scripts ont pour but de mettre en place un serveur de certificat simple ! (a
 ::Procédure::
 
 
-Durant l'exécution des scripts différentes questions vous seront posées ainsi que des informations comme par exemple de le dépôt de fichier.
+Durant l'exécution des scripts différentes questions vous seront posées ainsi que des informations comme par exemple le dépôt de fichier.
 
 
 Etape 1 :
