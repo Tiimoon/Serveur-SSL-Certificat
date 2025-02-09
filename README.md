@@ -1,5 +1,3 @@
-Voici le texte corrigé tout en gardant la mise en forme :
-
 Serveur-SSL-Certificat
 
 Ces scripts ont pour but de mettre en place un serveur de certificats simple ! (amélioration des scripts possible)
